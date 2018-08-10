@@ -1,3 +1,4 @@
+// Entity Class Users
 public class Users {
 
     private int Id;
